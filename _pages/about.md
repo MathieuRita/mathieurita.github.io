@@ -6,11 +6,10 @@ description: <a href="https://cognitive-ml.fr/">Inria, Ecole Normale Supérieure
 
 profile:
   align: right
-  image: profile_pic.jpg
-  address: >
-    <p>Office C408</p>
-    <p>2 rue Simone Iff</p>
-    <p>75012, Paris, France</p>
+  image: profile_pic.jpeg
+  address: 
+    <p>45 rue d'Ulm</p>
+    <p>75005, Paris, France</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
