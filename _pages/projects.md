@@ -3,8 +3,8 @@ layout: page
 title: Projects
 permalink: /projects/
 description: A summary of my current and past AI projects.
-nav: false
-display_categories: [Digital humanities, Applied Machine Learning]
+nav: true
+display_categories: [Emergent Communication, Digital humanities, Applied Machine Learning]
 horizontal: false
 ---
 <div class="projects">
