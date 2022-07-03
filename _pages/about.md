@@ -21,4 +21,3 @@ I am a Ph.D. student under the supervision of Emmanuel Dupoux, Olivier Pietquin 
 Prior to that, I received an engineering degree from Ecole Polytechnique and a MSc degree in Mathematics, Computer Vision and Machine Learning from Ecole Normale Supérieure Paris-Saclay.
 
 My research interests are at the crossroads of Machine Learning, Multi-agent RL, Language evolution and Cognitive science. My PhD projects aims at simulating language emergence in population of neural agents.
-n Machine Learning, Optimization, Computer Vision and their applications to Robotics.
