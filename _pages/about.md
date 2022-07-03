@@ -8,6 +8,7 @@ profile:
   align: right
   image: profile_pic.jpeg
   address: 
+    <p> Centre Sciences des Données (CSD) </p>
     <p>45 rue d'Ulm</p>
     <p>75005, Paris, France</p>
 
@@ -22,4 +23,4 @@ Prior to that, I received an engineering degree from Ecole Polytechnique and a M
 
 My research interests are at the crossroads of Machine Learning, Multi-agent RL, Language evolution and Cognitive science. 
 
-My PhD project aims at simulating language emergence in population of neural agents.
+**My PhD project aims at simulating language emergence in population of neural agents.**
