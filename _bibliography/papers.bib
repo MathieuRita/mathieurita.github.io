@@ -1,6 +1,15 @@
 ---
 ---
 
+@article{rita2022neurips,
+  title={Emergent Communication: Generalization and Overfitting in Lewis Games},
+  author={Rita, Mathieu and Tallec, Corentin and Michel, Paul and Grill, Jean-Bastien and Pietquin, Olivier and Dupoux, Emmanuel and Strub, Florian},
+  journal={36th Conference on Neural Information Processing Systems (NeurIPS 2022)},
+  year={2022},
+  selected    = {true},
+  abstract = {Lewis signaling games are a class of simple communication games for simulating the emergence of language. In these games, two agents must agree on a communication protocol in order to solve a cooperative task. Previous work has shown that agents trained to play this game with reinforcement learning tend to develop languages that display undesirable properties from a linguistic point of view (lack of generalization, lack of compositionality, etc). In this paper, we aim to provide better understanding of this phenomenon by analytically studying the learning problem in Lewis games. As a core contribution, we demonstrate that the standard objective in Lewis games can be decomposed in two components: a co-adaptation loss and an information loss. This decomposition enables us to surface two potential sources of overfitting, which we show may undermine the emergence of a structured communication protocol. In particular, when we control for overfitting on the co-adaptation loss, we recover desired properties in the emergent languages: they are more compositional and generalize better},
+}}
+
 @article{rita2022role,
   title={On the role of population heterogeneity in emergent communication},
   author={Rita, Mathieu and Strub, Florian and Grill, Jean-Bastien and Pietquin, Olivier and Dupoux, Emmanuel},
@@ -17,6 +26,7 @@
   author={Rita, Mathieu and Chaabouni, Rahma and Dupoux, Emmanuel},
   journal={In Proceedings of CoNLL 2020},
   year={2020},
+  selected    = {true},
   abstract = {Previous work has shown that artificial neural agents naturally develop surprisingly non-efficient codes. This is illustrated by the fact that in a referential game involving a speaker and a listener neural networks optimizing accurate transmission over a discrete channel, the emergent messages fail to achieve an optimal length. Furthermore, frequent messages tend to be longer than infrequent ones, a pattern contrary to the Zipf Law of Abbreviation (ZLA) observed in all natural languages. Here, we show that near-optimal and ZLA-compatible messages can emerge, but only if both the speaker and the listener are modified. We hence introduce a new communication system, “LazImpa”, where the speaker is made increasingly lazy, i.e., avoids long messages, and the listener impatient, i.e., seeks to guess the intended content as soon as possible.},
   pdf = {https://arxiv.org/pdf/2010.01878.pdf}
 }
