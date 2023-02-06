@@ -51,8 +51,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: MathieuRita # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: https://twitter.com/Mathieu_Rita # your Twitter handle
-linkedin_username: https://www.linkedin.com/in/mathieu-rita-073b34134/ # your LinkedIn user name
+twitter_username: Mathieu_Rita # your Twitter handle
+linkedin_username: mathieu-rita-073b34134 # your LinkedIn user name
 scholar_userid: 4VwTolgAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -243,7 +243,7 @@ enable_mansory:             true   # enables automatic project cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
-enable_darkmode:            false   # enables switching between light/dark modes
+enable_darkmode:            true   # enables switching between light/dark modes
 enable_navbar_social:       true  # enables displaying social links in the
                                    # navbar on the about page
 enable_project_categories:  true   # enables categorization of projects into

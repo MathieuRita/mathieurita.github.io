@@ -23,4 +23,4 @@ Prior to that, I received an engineering degree from Ecole Polytechnique and a M
 
 My research interests are at the crossroads of Machine Learning, Multi-agent RL, Language evolution and Cognitive science. 
 
-**My PhD project aims at simulating language emergence in population of neural agents.**
+**My PhD project aims at simulating language emergence in population of neural agents with deep reinforcement learning.**

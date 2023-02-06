@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: A complete list can be found on my <a href="https://scholar.google.com/citations?user=39fFsjkAAAAJ">Google Scholar</a>. #publications in reversed chronological order.
-years: [2022, 2020]
+years: [2023, 2022, 2020]
 nav: true
 ---
 
